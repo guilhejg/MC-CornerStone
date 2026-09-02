@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Cornerstone Banner" width="100%">
+</p>
+
 # Cornerstone
 
 **Cornerstone** é um servidor/modpack de Minecraft focado em construção de mundo, política, guerras, exploração e narrativa.
