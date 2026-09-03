@@ -42,6 +42,8 @@ Cornerstone busca transformar Minecraft em um mundo vivo e persistente, combinan
 
 O objetivo não é apenas jogar Minecraft, mas construir uma história dentro dele.
 
+Endereço: "cynthia-managers.tun.ply.gg"
+
 ## Filosofia
 
 Cada cidade, estrada, fortaleza, batalha ou tratado deve deixar alguma marca no mundo.
